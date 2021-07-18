@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "653694478690",
+    "firebase_url": "https://logistic-app-978e9-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "logistic-app-978e9",
+    "storage_bucket": "logistic-app-978e9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:653694478690:android:6c9fc56a5d825abafca43b",
+        "android_client_info": {
+          "package_name": "com.example.logistic"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "653694478690-rl18gnnf9brb6tfvmih8vinjcmr34u60.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.logistic",
+            "certificate_hash": "b384cbff0bf944d029a6d774726614096b362e7c"
+          }
+        },
+        {
+          "client_id": "653694478690-f09oive3m0m0a3qpmjlb2ghr1ki3i7g0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdjA_eDyRw4AQWvIcT0BaChlcNhigbXks"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "653694478690-f09oive3m0m0a3qpmjlb2ghr1ki3i7g0.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "653694478690-5d76cr2dl9r82ja738e7ngk30945v2qj.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.logisticApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
